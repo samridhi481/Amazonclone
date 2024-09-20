@@ -1,12 +1,26 @@
-#Amazon Clone
+
+# Amazon Clone
 
 A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS.
+ 
 
-#Technologies:
 
-HTML
-CSS
-Javascript
+
+
+## Technolgies:
+
+- HTML5
+- CSS3
+- Javascript
+
+
+## Contributor's Guide 🙌
+
+Thank you for considering contributing to this project! Your involvement makes this project better. Feel free to explore new features, fix bugs, or improve the overall design.
+
+Remember, every contribution, no matter how small, is highly valued. Let's build something amazing together! 🌟
+
+
 
 
 #overview of amazonclone
